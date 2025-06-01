@@ -1,0 +1,65 @@
+[
+  {
+    "id": 5,
+    "tên": "Bếp từ đôi Bluestone",
+    "giá": 3500000.0,
+    "thương hiệu": "Bluestone",
+    "phân loại": "Đồ điện nhà bếp",
+    "mô tả": "Bếp từ 2 vùng nấu, công suất 2000W, mặt kính chịu nhiệt cao cấp",
+    "số lượng tồn kho": 7
+  },
+  {
+    "id": 4,
+    "tên": "Quạt điều hòa Kangaroo",
+    "giá": 2500000,
+    "mô tả": "Quạt điều hòa 3 chế độ gió, dung tích bình nước 8L, điều khiển từ xa",
+    "thương hiệu": "Kangaroo",
+    "phân loại": "Đồ điện gia dụng",
+    "số lượng tồn kho": 5
+  },
+  {
+    "id": 7,
+    "tên": "Máy hút bụi Hitachi",
+    "giá": 2200000,
+    "mô tả": "Máy hút bụi công suất 1000W, túi lọc bụi 2 lớp, đầu hút đa năng",
+    "thương hiệu": "Hitachi",
+    "phân loại": "Đồ điện gia dụng",
+    "số lượng tồn kho": 6
+  },
+  {
+    "id": 6,
+    "tên": "Lò vi sóng Sharp",
+    "giá": 1800000,
+    "mô tả": "Lò vi sóng dung tích 20L, 5 mức công suất, chế độ hẹn giờ",
+    "thương hiệu": "Sharp",
+    "phân loại": "Đồ điện nhà bếp",
+    "số lượng tồn kho": 10
+  },
+  {
+    "id": 1,
+    "tên": "Nồi cơm điện Toshiba",
+    "giá": 1200000,
+    "mô tả": "Nồi cơm điện dung tích 1.8L, công nghệ nấu 3D, chống dính cao cấp",
+    "thương hiệu": "Toshiba",
+    "phân loại": "Đồ điện gia dụng",
+    "số lượng tồn kho": 15
+  },
+  {
+    "id": 2,
+    "tên": "Máy xay sinh tố Sunhouse",
+    "giá": 850000,
+    "mô tả": "Máy xay đa năng 2 cối, công suất 500W, lưỡi dao inox",
+    "thương hiệu": "Sunhouse",
+    "phân loại": "Đồ điện nhà bếp",
+    "số lượng tồn kho": 8
+  },
+  {
+    "id": 8,
+    "tên": "Ấm siêu tốc Lock&Lock",
+    "giá": 450000.0,
+    "thương hiệu": "Lock&Lock",
+    "phân loại": "Đồ điện nhà bếp",
+    "mô tả": "Ấm đun siêu tốc 1.8L, công suất 1800W, vỏ nhựa chịu nhiệt",
+    "số lượng tồn kho": 20
+  }
+]
